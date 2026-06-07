@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github.dukacrazy</groupId>
+    <artifactId>brailletable-java</artifactId>
+    <version>1.0.1</version>
+    <packaging>jar</packaging>
+
+    <name>brailletable</name>
+    <description>A complete and extensible Unicode Braille processing library.</description>
+    <url>https://github.com/DukaCrazy/brailletable-java</url>
+
+    <developers>
+        <developer>
+            <name>Nagao Yuji</name>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <connection>scm:git:git://github.com/DukaCrazy/brailletable-java.git</connection>
+        <developerConnection>scm:git:ssh://github.com:DukaCrazy/brailletable-java.git</developerConnection>
+        <url>https://github.com/DukaCrazy/brailletable-java</url>
+    </scm>
+
+    <properties>
+        <maven.compiler.source>1.5</maven.compiler.source>
+        <maven.compiler.target>1.5</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+    </dependencies>
+
+</project>
